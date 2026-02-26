@@ -1,0 +1,372 @@
+{
+  "period": {
+    "start": "2026-02-03",
+    "end": "2026-02-09"
+  },
+  "previous_period": null,
+  "summary_counts": {
+    "total_campaigns": 5854,
+    "new_campaigns": 3690
+  },
+  "summary_counts_delta": null,
+  "kpis": {
+    "spend": 117436.16,
+    "revenue": 131400.49,
+    "roi_pct": 11.89,
+    "cpc": 0.18,
+    "cpr": 2.18,
+    "clicks": 646327,
+    "results": 53885,
+    "impressions": 11307455,
+    "ecom_sales": 37979
+  },
+  "kpis_delta": null,
+  "daily": [
+    {
+      "date": "2026-02-02",
+      "spend": 0,
+      "revenue": 0,
+      "cpc": 0,
+      "roi_pct": 0,
+      "clicks": 0,
+      "results": 0
+    },
+    {
+      "date": "2026-02-03",
+      "spend": 43208,
+      "revenue": 46170.97,
+      "cpc": 0.21,
+      "roi_pct": 6.86,
+      "clicks": 208155,
+      "results": 19875
+    },
+    {
+      "date": "2026-02-04",
+      "spend": 26437.75,
+      "revenue": 33486.7,
+      "cpc": 0.09,
+      "roi_pct": 26.66,
+      "clicks": 304153,
+      "results": 21705
+    },
+    {
+      "date": "2026-02-05",
+      "spend": 11438.94,
+      "revenue": 11981.42,
+      "cpc": 0.29,
+      "roi_pct": 4.74,
+      "clicks": 39835,
+      "results": 2753
+    },
+    {
+      "date": "2026-02-06",
+      "spend": 16220.97,
+      "revenue": 15720.1,
+      "cpc": 0.39,
+      "roi_pct": -3.09,
+      "clicks": 41251,
+      "results": 3688
+    },
+    {
+      "date": "2026-02-07",
+      "spend": 20130.5,
+      "revenue": 24041.3,
+      "cpc": 0.38,
+      "roi_pct": 19.43,
+      "clicks": 52933,
+      "results": 5864
+    },
+    {
+      "date": "2026-02-08",
+      "spend": 0,
+      "revenue": 0,
+      "cpc": 0,
+      "roi_pct": 0,
+      "clicks": 0,
+      "results": 0
+    }
+  ],
+  "top_combinations": [
+    {
+      "rank": 1,
+      "topic": "exerciseequipment",
+      "strategy": "roas val",
+      "roi_pct": 279.89,
+      "spend": 60.21,
+      "cpr": 3.35,
+      "results": 18
+    },
+    {
+      "rank": 2,
+      "topic": "bestvacuumdeals",
+      "strategy": "cost cap",
+      "roi_pct": 261.03,
+      "spend": 55.1,
+      "cpr": 0.89,
+      "results": 62
+    },
+    {
+      "rank": 3,
+      "topic": "datenightdresses",
+      "strategy": "roas val",
+      "roi_pct": 257.4,
+      "spend": 38.29,
+      "cpr": 1.47,
+      "results": 26
+    },
+    {
+      "rank": 4,
+      "topic": "cookwaresets",
+      "strategy": "roas val",
+      "roi_pct": 190.33,
+      "spend": 35.06,
+      "cpr": 2.5,
+      "results": 14
+    },
+    {
+      "rank": 5,
+      "topic": "cocktaildresses",
+      "strategy": "bid cap",
+      "roi_pct": 186.11,
+      "spend": 10.22,
+      "cpr": 10.22,
+      "results": 1
+    }
+  ],
+  "worst_combinations": [
+    {
+      "rank": 1,
+      "topic": "kitchengadgets",
+      "strategy": "max",
+      "roi_pct": -100,
+      "spend": 23.51,
+      "cpr": 0.22,
+      "results": 106
+    },
+    {
+      "rank": 2,
+      "topic": "valentinesgiftsforhim",
+      "strategy": "max",
+      "roi_pct": -100,
+      "spend": 32.2,
+      "cpr": 0.35,
+      "results": 93
+    },
+    {
+      "rank": 3,
+      "topic": "valentineschocolate",
+      "strategy": "max",
+      "roi_pct": -100,
+      "spend": 51.15,
+      "cpr": 0.47,
+      "results": 108
+    },
+    {
+      "rank": 4,
+      "topic": "classroomvalentines",
+      "strategy": "max",
+      "roi_pct": -100,
+      "spend": 14.63,
+      "cpr": 0.33,
+      "results": 44
+    },
+    {
+      "rank": 5,
+      "topic": "legoforkids",
+      "strategy": "max",
+      "roi_pct": -100,
+      "spend": 18.12,
+      "cpr": 1.51,
+      "results": 12
+    }
+  ],
+  "bid_strategy_breakdown": [
+    {
+      "strategy": "cost cap",
+      "spend": 63318.15,
+      "revenue": 67529.29,
+      "roi_pct": 6.65,
+      "cpc": 0.18,
+      "cpr": 1.82,
+      "results": 34786
+    },
+    {
+      "strategy": "max val",
+      "spend": 20944.06,
+      "revenue": 20591.68,
+      "roi_pct": -1.68,
+      "cpc": 0.27,
+      "cpr": 3.14,
+      "results": 6674
+    },
+    {
+      "strategy": "roas val",
+      "spend": 15027.5,
+      "revenue": 22688.18,
+      "roi_pct": 50.98,
+      "cpc": 0.09,
+      "cpr": 2.64,
+      "results": 5701
+    },
+    {
+      "strategy": "max num",
+      "spend": 15294.58,
+      "revenue": 12266.9,
+      "roi_pct": -19.8,
+      "cpc": 0.39,
+      "cpr": 4.75,
+      "results": 3222
+    },
+    {
+      "strategy": "max",
+      "spend": 1080.01,
+      "revenue": 93.07,
+      "roi_pct": -91.38,
+      "cpc": 0.36,
+      "cpr": 0.36,
+      "results": 3026
+    },
+    {
+      "strategy": "bid cap",
+      "spend": 1771.86,
+      "revenue": 2373.93,
+      "roi_pct": 33.98,
+      "cpc": 0.24,
+      "cpr": 3.72,
+      "results": 476
+    },
+    {
+      "strategy": "missing",
+      "spend": 0,
+      "revenue": 5857.44,
+      "roi_pct": 0,
+      "cpc": 0,
+      "cpr": 0,
+      "results": 0
+    }
+  ],
+  "device_breakdown": [
+    {
+      "device": "m",
+      "spend": 117436.16,
+      "revenue": 125543.05,
+      "roi_pct": 6.9,
+      "cpc": 0.18,
+      "cpr": 2.18,
+      "results": 53885
+    },
+    {
+      "device": "missing",
+      "spend": 0,
+      "revenue": 5857.44,
+      "roi_pct": 0,
+      "cpc": 0,
+      "cpr": 0,
+      "results": 0
+    }
+  ],
+  "creative_type_breakdown": [
+    {
+      "type": "unknown",
+      "spend": 14828.46,
+      "revenue": 25348.36,
+      "roi_pct": 70.94,
+      "cpc": 0.17,
+      "cpr": 2.31,
+      "results": 6423
+    },
+    {
+      "type": "img",
+      "spend": 102301.98,
+      "revenue": 105930.19,
+      "roi_pct": 3.55,
+      "cpc": 0.18,
+      "cpr": 2.17,
+      "results": 47213
+    },
+    {
+      "type": "vid",
+      "spend": 305.72,
+      "revenue": 121.94,
+      "roi_pct": -60.11,
+      "cpc": 0.62,
+      "cpr": 1.23,
+      "results": 249
+    }
+  ],
+  "content_manager_breakdown": [
+    {
+      "member": "admin",
+      "spend": 97904.11,
+      "revenue": 103334.48,
+      "roi_pct": 5.55,
+      "cpc": 0.16,
+      "cpr": 2.03,
+      "results": 48202
+    },
+    {
+      "member": "missing",
+      "spend": 0,
+      "revenue": 5857.44,
+      "roi_pct": 0,
+      "cpc": 0,
+      "cpr": 0,
+      "results": 0
+    },
+    {
+      "member": "jo",
+      "spend": 8222.23,
+      "revenue": 9871.99,
+      "roi_pct": 20.06,
+      "cpc": 0.36,
+      "cpr": 3.53,
+      "results": 2326
+    },
+    {
+      "member": "lu",
+      "spend": 913.2,
+      "revenue": 1076.69,
+      "roi_pct": 17.9,
+      "cpc": 0.44,
+      "cpr": 2.95,
+      "results": 310
+    },
+    {
+      "member": "cami",
+      "spend": 2864.72,
+      "revenue": 2820.74,
+      "roi_pct": -1.54,
+      "cpc": 0.46,
+      "cpr": 4.11,
+      "results": 697
+    },
+    {
+      "member": "yn",
+      "spend": 6090.01,
+      "revenue": 6205.5,
+      "roi_pct": 1.9,
+      "cpc": 0.43,
+      "cpr": 3.29,
+      "results": 1853
+    },
+    {
+      "member": "ju",
+      "spend": 1437.16,
+      "revenue": 2233.1,
+      "roi_pct": 55.38,
+      "cpc": 0.25,
+      "cpr": 2.9,
+      "results": 496
+    },
+    {
+      "member": "om",
+      "spend": 4.73,
+      "revenue": 0.55,
+      "roi_pct": -88.37,
+      "cpc": 0.79,
+      "cpr": 4.73,
+      "results": 1
+    }
+  ],
+  "analysis": null
+}
